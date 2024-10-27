@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mlev/Documents/DATA/mlflow/mlruns/0/3e05bc3e006b44879f7452cb8cea337a/artifacts
+end_time: 1729370805361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e05bc3e006b44879f7452cb8cea337a
+run_name: youthful-colt-988
+run_uuid: 3e05bc3e006b44879f7452cb8cea337a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729370802559
+status: 3
+tags: []
+user_id: mlev

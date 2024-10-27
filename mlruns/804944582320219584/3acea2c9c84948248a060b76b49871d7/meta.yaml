@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mlev/Documents/DATA/mlflow/mlruns/804944582320219584/3acea2c9c84948248a060b76b49871d7/artifacts
+end_time: 1729416594728
+entry_point_name: ''
+experiment_id: '804944582320219584'
+lifecycle_stage: active
+run_id: 3acea2c9c84948248a060b76b49871d7
+run_name: amusing-chimp-621
+run_uuid: 3acea2c9c84948248a060b76b49871d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729416591768
+status: 3
+tags: []
+user_id: mlev

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mlev/Documents/DATA/mlflow/mlruns/526425392455219070/ddde897ed2424baaa4959e39c207af3d/artifacts
+end_time: 1729447355922
+entry_point_name: ''
+experiment_id: '526425392455219070'
+lifecycle_stage: active
+run_id: ddde897ed2424baaa4959e39c207af3d
+run_name: unruly-duck-300
+run_uuid: ddde897ed2424baaa4959e39c207af3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729447354224
+status: 3
+tags: []
+user_id: mlev

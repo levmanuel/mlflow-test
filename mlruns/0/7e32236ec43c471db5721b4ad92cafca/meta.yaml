@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mlev/Documents/DATA/mlflow/mlruns/0/7e32236ec43c471db5721b4ad92cafca/artifacts
+end_time: 1729370867465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e32236ec43c471db5721b4ad92cafca
+run_name: selective-kite-996
+run_uuid: 7e32236ec43c471db5721b4ad92cafca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729370865525
+status: 3
+tags: []
+user_id: mlev

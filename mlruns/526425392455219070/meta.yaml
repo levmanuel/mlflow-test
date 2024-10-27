@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mlev/Documents/DATA/mlflow/mlruns/526425392455219070
+creation_time: 1729447322107
+experiment_id: '526425392455219070'
+last_update_time: 1729447322107
+lifecycle_stage: active
+name: Random Classification with KNN

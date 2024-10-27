@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mlev/Documents/DATA/mlflow/mlruns/804944582320219584/a6d81aec793943688363bbadb1bce8b3/artifacts
+end_time: 1729415801707
+entry_point_name: ''
+experiment_id: '804944582320219584'
+lifecycle_stage: active
+run_id: a6d81aec793943688363bbadb1bce8b3
+run_name: salty-bug-365
+run_uuid: a6d81aec793943688363bbadb1bce8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729415799548
+status: 3
+tags: []
+user_id: mlev

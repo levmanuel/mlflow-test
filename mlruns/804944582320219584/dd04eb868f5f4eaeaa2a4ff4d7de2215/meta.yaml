@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mlev/Documents/DATA/mlflow/mlruns/804944582320219584/dd04eb868f5f4eaeaa2a4ff4d7de2215/artifacts
+end_time: 1729416183465
+entry_point_name: ''
+experiment_id: '804944582320219584'
+lifecycle_stage: active
+run_id: dd04eb868f5f4eaeaa2a4ff4d7de2215
+run_name: luxuriant-calf-431
+run_uuid: dd04eb868f5f4eaeaa2a4ff4d7de2215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729416181577
+status: 3
+tags: []
+user_id: mlev
